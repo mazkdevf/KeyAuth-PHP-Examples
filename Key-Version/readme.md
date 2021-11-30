@@ -1,4 +1,8 @@
 # KeyAuth-PHP-Key-Example
+
+- Latest version with HWID-Resets --> [Releases](https://github.com/mazk5145/KeyAuth-PHP-Examples/releases/tag/Releases)
+
+## **Information About KeyAuth**
 PHP Example For KeyAuth Authentication System
 
 Set Application Name And OwnerID in index.php and you're set.
