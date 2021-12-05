@@ -73,7 +73,11 @@ class api {
         if(!$json->success)
             $this->error($json->message);
         else if($json->success)
-            $_SESSION["user_data"] = (array)$json->info;
+        // MODIFED FROM ORIGINAL
+            $_SESSION["user_data"] = (array)$json;
+            $_SESSION["substatus"] = $json->success;
+            $_SESSION["submessage"] = $json->message;
+            $_SESSION["userdata"] = (array)$json->info;
 
         return $json->success;
     }
