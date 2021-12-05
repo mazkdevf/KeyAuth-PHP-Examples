@@ -2,6 +2,8 @@
 - Using November 20 API From KeyAuth, including : **"Expiry, Timeleft, Last Login, IP and Subscription"**
 
 ## **Update Log**
+- 5.12.2021 : Fixed All Version Register error
+---------------------------------------------------------------------
 - 30.11.2021 : Added SellerAPI Reset HWID Feature to Key Example
 - 30.11.2021 : Added Brandnew UI/CSS to Login Example
 ---------------------------------------------------------------------
