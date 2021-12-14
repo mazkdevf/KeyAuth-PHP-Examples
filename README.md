@@ -1,9 +1,12 @@
 <img src="https://github.com/mazk5145/imgs/blob/main/keyauthphpexamples.jpg?raw=true" alt="" data-canonical-src="https://github.com/mazk5145/imgs/blob/main/keyauthphpexamples.jpg?raw=trueg" width="1280" height="490" />
 
 # KeyAuth-PHP-Examples
-- Using November 20 API From KeyAuth, including : **"Expiry, Timeleft, Last Login, IP and Subscription"**
+- Source is using November 20 API From KeyAuth, including : **"Expiry, Timeleft, Last Login, IP and Subscription"**
 
 ## **Update Log**
+- 14.12.2021 : Added December 13 API Versions to Releases (KEY)
+- 14.12.2021 : Added December 13 API Versions to Releases (LOGIN + REGISTER)
+---------------------------------------------------------------------
 - 5.12.2021 : Fixed All Version Register error
 ---------------------------------------------------------------------
 - 30.11.2021 : Added SellerAPI Reset HWID Feature to Key Example
